@@ -7,7 +7,7 @@
 ## 👨‍💻 Về mình
 
 * 💼 Nghề nghiệp: **Software Engineer / Developer**
-* 🏢 Đang làm việc tại: *Company / Organization*
+* 🏢 Đang làm việc tại: *************
 * 📍 Khu vực: *Việt Nam*
 * 🎯 Mục tiêu: Phát triển sản phẩm **ổn định – hiệu quả – dễ mở rộng**
 
@@ -19,7 +19,7 @@
 
 * **Programming**: `JavaScript`, `Python`, `Java` , ***
 * **Frontend**: `React`, `Next.js`, `HTML`, `CSS`, ***
-* **Backend**: `Node.js`, `NestJS`, `Spring Boot` , `PHP` ,***
+* **Backend**: `Node.js`, `NestJS`, `Spring Boot` , `PHP` , `Laravel` ,***
 * **Database**: `PostgreSQL`, `MySQL`, `MongoDB`,***
 * **DevOps / Tools**: `Docker`, `Git`, `CI/CD`, `Linux`,***
 
@@ -33,14 +33,16 @@
   * Phát triển và bảo trì hệ thống production
   * Tối ưu hiệu năng & cải thiện trải nghiệm người dùng
   * Làm việc với team theo Agile/Scrum
+  * Phát triển các dự án cho doanh nghiệp 
+  * Phất triển các công cụ tool , hỗ trợ cho mọi người
 
 ---
 
 ## 📌 Dự án tiêu biểu
 
-* 🚀 **Project A** – Hệ thống / sản phẩm thực tế
-* 🌐 **Project B** – Web/App phục vụ người dùng
-* ⚙️ **Internal Tool** – Công cụ hỗ trợ nội bộ
+* 🚀 **Agridrone** – Hệ thống  CRM và tích hợp nhiều sản phẩm  chức năng theo người dùng..
+* 🌐 **Tainguyenso.vn** – Website bán các source và chia sẻ  các source cho tất cả mọi người
+* ⚙️ **Tool Python** – Công cụ hỗ trợ nội bộ
 
 ---
 
@@ -56,7 +58,7 @@
 
 
 * 📧 Email: [thientran99.it@gmail.com](mailto:thientran99.it@gmail.com)
-* 🌐 Portfolio: [https://yourportfolio.com](https://profile.thientran.online/)]
+* 🌐 Portfolio: [https://profile.tainguyenso.vn/](https://profile.tainguyenso.vn/)]
 
 ---
 
